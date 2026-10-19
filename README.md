@@ -239,13 +239,14 @@ git push origin main
 
 This screenshot shows the Jenkins job and build status for the automated CI/CD pipeline.
 
-![Jenkins Dashboard](screenshots/jenkins-dashboard.png)
+![Jenkins Dashboard](<Jenkins Dashboard 1.png>)
+![2](<Jenkins Dashboard 2.png>)
 
 ### 2. Ubuntu Terminal — Docker Container
 
 This screenshot shows the running Docker container in the Ubuntu terminal.
 
-![Ubuntu Docker Container](screenshots/ubuntu-docker-container.png)
+!![Ubuntu Terminal](<Ubuntu Terminal — Docker Container.png>)
 
 ### 3. Deployed Website
 
