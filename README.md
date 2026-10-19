@@ -233,6 +233,27 @@ git push origin main
 * Verified the updated application through a browser.
 * Successfully tested the automatic deployment workflow.
 
+## 📸 Project Screenshots
+
+### 1. Jenkins Dashboard
+
+This screenshot shows the Jenkins job and build status for the automated CI/CD pipeline.
+
+![Jenkins Dashboard](screenshots/jenkins-dashboard.png)
+
+### 2. Ubuntu Terminal — Docker Container
+
+This screenshot shows the running Docker container in the Ubuntu terminal.
+
+![Ubuntu Docker Container](screenshots/ubuntu-docker-container.png)
+
+### 3. Deployed Website
+
+This screenshot shows the website deployed automatically using Jenkins and Docker.
+
+![Deployed Website](screenshots/website-deployed.png)
+
+
 ## 📚 Key Learnings
 
 * Git and GitHub integration
