@@ -252,7 +252,7 @@ This screenshot shows the running Docker container in the Ubuntu terminal.
 This screenshot shows the website deployed automatically using Jenkins and Docker.
 
 https://github.com/Shiva-Sajjanar/jenkins-docker-demo/blob/main/screenshots/Deployed%20Website.png
-
+![Deployed Website](<Deployed Website.png>)
 
 ## 📚 Key Learnings
 
